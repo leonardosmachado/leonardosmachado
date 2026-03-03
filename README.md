@@ -1,6 +1,6 @@
 # 👨🏻‍💻🎲 Leonardo Machado
 
-**`Analista de dados`**
+**`Cientista de dados`**
 
 Olá, me chamo Leonardo Santos Machado, tenho 26 anos e sou natural do Distrito Federal e atualmente estou cursando Análise e Desenvolvimento de Sistemas na UNIFIN. 
 
