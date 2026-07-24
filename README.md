@@ -130,7 +130,7 @@ Olá, me chamo Leonardo Santos Machado, tenho 26 anos e sou natural do Distrito 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-stats-extended.vercel.app/api/top-langs/?username=leonardosmachado&theme=tokyonight&layout=compact&custom_title=Most Used Languages&langs_count=3" 
+      src="https://github-stats-extended.vercel.app/api/top-langs/?username=leonardosmachado&theme=tokyonight&layout=compact&langs_count=3" 
   />
 
 </p>
